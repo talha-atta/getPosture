@@ -1,2 +1,2 @@
 # getPosture
-Posture App
+Posture App Landing Page
